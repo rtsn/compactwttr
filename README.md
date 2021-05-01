@@ -6,7 +6,7 @@ Removes colors and compacts the output from wttr.in.
 Suitable for smaller screens.
 
 # usage
-./compactWeather.py Longyearbyen
+./compact_weather.py Longyearbyen
 
 # example
 ![Before](/images/wttr.png "before")
